@@ -1,0 +1,20 @@
+{
+  "name": "awesome-progress-elements",
+  "description": "Awesome up-to-date progress elements.",
+  "keywords": [
+    "progress",
+    "element-collection"
+  ],
+  "authors": [
+    "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "d3-progress-meter": "Collaborne/d3-progress-meter",
+    "material-progress": "vguillou/material-progress",
+    "paper-progress": "PolymerElements/paper-progress",
+    "paper-stepper": "Zecat/paper-stepper",
+    "progress-bubble": "tehapo/progress-bubble"
+  },
+  "private": true
+}
