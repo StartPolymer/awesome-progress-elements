@@ -14,7 +14,7 @@
     "material-progress": "vguillou/material-progress",
     "paper-progress": "PolymerElements/paper-progress",
     "paper-stepper": "Zecat/paper-stepper",
-    "progress-bubble": "tehapo/progress-bubble"
+    "s-circle-progress": "StartPolymer/s-circle-progress"
   },
   "private": true
 }
