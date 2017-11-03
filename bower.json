@@ -10,11 +10,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "d3-progress-meter": "Collaborne/d3-progress-meter#^1.0.0",
-    "material-progress": "vguillou/material-progress#^0.1.3",
-    "paper-progress": "PolymerElements/paper-progress#^2.0.0",
-    "paper-stepper": "Zecat/paper-stepper#v2.0-beta.5",
-    "s-circle-progress": "StartPolymer/s-circle-progress#^1.0.0"
+    "paper-progress": "PolymerElements/paper-progress#^2.0.0"
   },
   "private": true
 }
